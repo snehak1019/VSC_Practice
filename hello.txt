@@ -1,7 +1,10 @@
 hello 
 welcome to sourcetree practice
 bye
+<<<<<<< HEAD
 
 conflict 2 by sk
 conflict1
+=======
+>>>>>>> 5a99588 (no message)
 Thank you for the invitation
