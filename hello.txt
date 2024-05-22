@@ -8,3 +8,6 @@ conflict1
 Thank you for the invitation
 
 working repo
+Thank you for the invitation
+
+practicing conflict
